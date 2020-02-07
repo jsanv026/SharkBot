@@ -1,0 +1,11 @@
+{
+  "name": "shark-bot",
+  "version": "0.1",
+  "description": "nothing",
+  "main": "bot.js",
+  "author": "John Sanvictores",
+  "dependencies": {
+    "discord.io": "^2.5.3",
+    "winston": "^3.2.1"
+  }
+}
